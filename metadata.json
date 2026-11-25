@@ -1,0 +1,6 @@
+{
+  "name": "Campiq",
+  "description": "Smart campus web app and PWA for universities, featuring campus exploration, community connect, student services, and navigation, piloted at Lovely Professional University (LPU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
